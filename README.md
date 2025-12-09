@@ -1,4 +1,4 @@
-# Food Programs Dashboard 
+# Executive Dashboard 
 ## Overview 
 The Food Programs Dashboard is a data visualization tool designed to track and analyze food recovery and distribution efforts across multiple community health programs. It provides actionable insights into program performance, resource allocation, and community impact. 
 One key purpose of tracking these metrics is to **report outcomes for grant funding**, enabling us to secure additional resources and direct more funds to high-need community areas. 
