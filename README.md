@@ -16,4 +16,4 @@ This dashboard supports initiatives such as:
 - **Organizational Breakdown:** Assess food distribution by partner organizations.
 - **Visual Summaries:** Interactive charts and graphs for quick decision-making.
 - ## Dashboard
-- https://github.com/SheaRendle/Food-Programs-Dashboard/blob/main/Food%20Programs%20Dashboard%20Visual.png
+- https://github.com/SheaRendle/Executive-Dashboard/blob/main/Executive%20Dashboard.png?raw=true
